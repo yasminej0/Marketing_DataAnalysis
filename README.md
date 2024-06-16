@@ -13,12 +13,6 @@ ABC Supermarket aims to achieve rapid market penetration for their new line of o
    - Analyze demographic information and loyalty program details of participants who received free sample kits.
    - Segment participants based on factors such as age, gender, location, and loyalty program engagement.
 
-2. **Target Audience Identification:**
-   - Identify potential buyers among the 90% of participants who have not received sample kits based on the analysis of the 10% sample data.
-
-3. **Financial Considerations:**
-   - Calculate the expected revenue from successful buyers, considering each buyer generates £146.1 in revenue.
-   - Factor in the cost of £43.05 per promotional sample kit to optimize campaign profitability.
 
 ## Data Analysis in Excel
 
