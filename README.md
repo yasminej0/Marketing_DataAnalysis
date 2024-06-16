@@ -1,4 +1,4 @@
-# ABC Supermarket Marketing Campaign for Organic Products
+# ABC Supermarket Marketing Campaign for Organic Products 🛒📈
 
 ## Project Context
 
@@ -41,4 +41,18 @@ ABC Supermarket aims to achieve rapid market penetration for their new line of o
   
   ![](img/dash.PNG)
 
+### Insights 🔮
 
+- **Gender:** Females show a higher inclination to buy organic products compared to males.
+
+- **Age:** Customers aged 40-70 have the highest purchase rates for organic products.
+
+- **Affluance Grade:** Higher affluance correlates with higher likelihood of purchasing organic products.
+
+- **Loyalty Time:** Longer tenure in the loyalty program correlates with lower willingness to buy organic products.
+
+- **Total Spend:** Customers who spend less show higher purchase rates for organic products.
+
+- **Loyalty Class:** Silver and Tin class customers are the most receptive to organic products.
+
+- **Region:** The South East region, especially London, show the highest interest in purchasing organic products compared to other areas.
