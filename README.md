@@ -34,6 +34,9 @@ ABC Supermarket aims to achieve rapid market penetration for their new line of o
 
 3. **Charts and Visualizations:**
    - Developed charts to illustrate trends and patterns in participant demographics and engagement to identify potential buyer segments.
+  
+     ![](img/dash.PNG)
+
 
 4. **Future Steps:**
    - Implement predictive modeling techniques to forecast purchase behavior among the remaining 90% of participants.
