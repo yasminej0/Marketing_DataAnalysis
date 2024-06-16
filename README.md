@@ -35,8 +35,10 @@ ABC Supermarket aims to achieve rapid market penetration for their new line of o
      - Conversion rate from the 10% sample group
 
 3. **Charts and Visualizations:**
-   - Developed charts to illustrate trends and patterns in participant demographics and engagement to identify potential buyer segments.
+   - Developed charts to illustrate trends and patterns in participant demographics and engagement --> identify potential buyer segments.
+
+### Excel Interactive Dashborad:
   
-     ![](img/dash.PNG)
+  ![](img/dash.PNG)
 
 
