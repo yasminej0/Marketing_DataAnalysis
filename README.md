@@ -1,6 +1,6 @@
 # ABC Supermarket Marketing Campaign for Organic Products
 
-## Project Goal
+## Project Context
 
 ABC Supermarket aims to achieve rapid market penetration for their new line of organic products through an analytics-enabled marketing campaign targeted at their loyalty program participants. The primary objectives are:
 
